@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,UnitPrice
+A1001,Laptop,Electronics,500.0
+A1002,Smartphone,Electronics,300.0
+B1001,Shirt,Clothing,25.0
+C1001,Refrigerator,Appliances,800.0
+A1003,Tablet,Electronics,200.0
+C1002,Washing Machine,Appliances,600.0
+B1002,Jeans,Clothing,40.0
+A1004,Headphones,Electronics,50.0
+C1003,Oven,Appliances,700.0
+B1003,T-Shirt,Clothing,20.0
